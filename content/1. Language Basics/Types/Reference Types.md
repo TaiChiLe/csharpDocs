@@ -1,0 +1,7 @@
+- `string` → sequence of Unicode characters (immutable).
+- `object` → base type of all types in C#.
+- `class` → user-defined reference type.
+- `interface` → defines contracts for classes/structs.
+- `delegate` → reference to methods (function pointers).
+- `dynamic` → skips compile-time type checking.
+- Arrays → `int[]`, `string[]`, etc.
