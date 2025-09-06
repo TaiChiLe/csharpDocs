@@ -36,6 +36,7 @@ title: A Systematic Approach to Learning C Sharp
 ## [[3.4 Optional & Named Parameters]]
 
 ## [[3.5 Recursion Basics]]
+## [[3.6 Local Functions]]
 
 # 4. Object-Oriented Programming (OOP)
 
@@ -56,6 +57,8 @@ title: A Systematic Approach to Learning C Sharp
 ## [[4.8 Interfaces & Abstract Classes]]
 
 ## [[4.9 Static Members]]
+## [[4.10 Records & Init-only Properties]]
+## [[4.11 Sealed Classes & Methods]]
 
 # 5. Collections & Generics
 
@@ -74,10 +77,12 @@ title: A Systematic Approach to Learning C Sharp
 ## [[6.2 Throwing Exceptions - Throw]]
 
 ## [[6.3 Custom Exceptions]]
-
+## [[6.4 Exception Filters]]
+## [[6.5 Multiple Catch Blocks with Exception Hierarchy]]
 # 7.1 Advanced Features
 
 ## [[7.1 Delegates & Events]]
+### [[7.1.1 Types Explicitly In Delegates]]
 
 ## [[7.2 Lambda expressions]]
 

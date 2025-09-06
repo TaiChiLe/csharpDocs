@@ -21,5 +21,5 @@
 
 # Other Value Types
 - `bool` → `true` or `false`
-- `struct` → user-defined value type
-- `enum` → named set of constants
+- [[Structs]] → user-defined value type
+- [[Enums]] → named set of constants
