@@ -17,113 +17,136 @@ title: A Systematic Approach to Learning C Sharp
 
 ## [[1.4 Basic Input and Output]]
 
-# 2. Control Flow
+## [[1.5 Special Characters]]
 
-## [[2.1 Conditional Statements]]
+## [[1.6 Built-in Numeric Conversion]]
 
-## [[2.2 Loops]]
+## [[1.7 Unboxing and Boxing Conversions]]
 
-## [[2.3 Jump Statements]]
+# 2. Code Organization & Namespaces
 
-# 3. Methods (Functions)
+## [[2.1 Namespace]]
 
-## [[3.1 Defining Methods]]
+## [[2.2 Using — Importing Namespaces]]
 
-## [[3.2 Method Parameters and Return Types]]
+## [[2.3 Extern Alias]]
 
-## [[3.3 Method Overloading]]
+## [[2.4 Assemblies & DLL basics]]
 
-## [[3.4 Optional & Named Parameters]]
+# 3. Control Flow
 
-## [[3.5 Recursion Basics]]
-## [[3.6 Local Functions]]
+## [[3.1 Conditional Statements]]
 
-# 4. Object-Oriented Programming (OOP)
+## [[3.2 Loops]]
 
-## [[4.1 Classes and Objects]]
+## [[3.3 Jump Statements]]
 
-## [[4.2 Constructors & Destructors]]
+# 4. Methods (Functions)
 
-## [[4.3 Properties & Fields]]
+## [[4.1 Defining Methods]]
 
-## [[4.4 Methods within classes]]
+## [[4.2 Method Parameters and Return Types]]
 
-## [[4.5 Encapsulation]]
+## [[4.3 Method Overloading]]
 
-## [[4.6 Inheritance]]
+## [[4.4 Optional & Named Parameters]]
 
-## [[4.7 Polymorphism]]
+## [[4.5 Recursion Basics]]
 
-## [[4.8 Interfaces & Abstract Classes]]
+## [[4.6 Local Functions]]
 
-## [[4.9 Static Members]]
-## [[4.10 Records & Init-only Properties]]
-## [[4.11 Sealed Classes & Methods]]
+# 5. Object-Oriented Programming (OOP)
 
-# 5. Collections & Generics
+## [[5.1 Classes and Objects]]
 
-## [[5.1 Arrays]]
+## [[5.2 Constructors & Destructors]]
 
-## [[5.2 Lists, Dictionaries, Sets]]
+## [[5.3 Properties & Fields]]
 
-## [[5.3 Queues & Stacks]]
+## [[5.4 Methods within classes]]
 
-## [[5.4 Generic Methods & Classes]]
+## [[5.5 Encapsulation]]
 
-# 6. Exception Handling
+## [[5.6 Inheritance]]
 
-## [[6.1 Try-Catch-Finally]]
+## [[5.7 Polymorphism]]
 
-## [[6.2 Throwing Exceptions - Throw]]
+## [[5.8 Interfaces & Abstract Classes]]
 
-## [[6.3 Custom Exceptions]]
-## [[6.4 Exception Filters]]
-## [[6.5 Multiple Catch Blocks with Exception Hierarchy]]
-# 7.1 Advanced Features
+## [[5.9 Static Members]]
 
-## [[7.1 Delegates & Events]]
-### [[7.1.1 Types Explicitly In Delegates]]
+## [[5.10 Records & Init-only Properties]]
 
-## [[7.2 Lambda expressions]]
+## [[5.11 Sealed Classes & Methods]]
 
-## [[7.3 LINQ Queries]]
+# 6. Collections & Generics
 
-## [[7.4 Anonymous Types]]
+## [[6.1 Arrays]]
 
-## [[7.5 Extension Methods]]
+## [[6.2 Lists, Dictionaries, Sets]]
 
-## [[7.6 Nullable Types]]
+## [[6.3 Queues & Stacks]]
 
-## [[7.7 Tuples & ValueTuples]]
+## [[6.4 Generic Methods & Classes]]
 
-## [[7.8 Checked and Unchecked Arithmetic]]
+# 7. Exception Handling
 
-## [[7.9 Dynamic Programming]]
+## [[7.1 Try-Catch-Finally]]
 
-# 8. File IO & Data Persistence
+## [[7.2 Throwing Exceptions - Throw]]
 
-## [[8.1 Reading & Writing text files]]
+## [[7.3 Custom Exceptions]]
 
-## [[8.2 JSON Serialisation and Deserialisation]]
+## [[7.4 Exception Filters]]
 
-## [[8.3 Working with CSV or XML Files]]
+## [[7.5 Multiple Catch Blocks with Exception Hierarchy]]
 
-# 9. Asynchronous Programming & Tasks
+# 8 Advanced Features
 
-## [[9.1 Async and Await]]
+## [[8.1 Delegates & Events]]
 
-## [[9.2 Task and Task.T]]
+## [[8.1.1 Types Explicitly In Delegates]]
 
-## [[9.3 Parallel Programming Basics]]
+## [[8.2 Lambda expressions]]
 
-## [[9.4 Cancellation Tokens]]
+## [[8.3 LINQ Queries]]
 
-# 10. Working with APIs & .NET Libraries
+## [[8.4 Anonymous Types]]
 
-## [[10.1 Using NuGet Packages]]
+## [[8.5 Extension Methods]]
 
-## [[10.2 Making HTTP Requests]]
+## [[8.6 Nullable Types]]
 
-## [[10.3 Using .NET built-in Libraries]]
+## [[8.7 Tuples & ValueTuples]]
 
-# [[11. Debugging and Logging]]
+## [[8.8 Checked and Unchecked Arithmetic]]
+
+## [[8.9 Dynamic Programming]]
+
+# 9. File IO & Data Persistence
+
+## [[9.1 Reading & Writing text files]]
+
+## [[9.2 JSON Serialisation and Deserialisation]]
+
+## [[9.3 Working with CSV or XML Files]]
+
+# 10. Asynchronous Programming & Tasks
+
+## [[10.1 Async and Await]]
+
+## [[10.2 Task and Task.T]]
+
+## [[10.3 Parallel Programming Basics]]
+
+## [[10.4 Cancellation Tokens]]
+
+# 11. Working with APIs & .NET Libraries
+
+## [[11.1 Using NuGet Packages]]
+
+## [[11.2 Making HTTP Requests]]
+
+## [[11.3 Using .NET built-in Libraries]]
+
+# [[12. Debugging and Logging]]
