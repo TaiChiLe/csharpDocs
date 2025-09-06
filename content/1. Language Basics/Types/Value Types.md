@@ -1,4 +1,4 @@
-# Numeric (integral)
+# 📌Numeric (integral)
 
 |Type|Size|Range|
 |---|---|---|
@@ -11,7 +11,7 @@
 |`long`|64-bit|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807|
 |`ulong`|64-bit|0 to 18,446,744,073,709,551,615|
 |`char`|16-bit|A Unicode character|
-# Numeric (Floating-point & Decimal)
+# 📌Numeric (Floating-point & Decimal)
 
 |Type|Size|Precision|
 |---|---|---|

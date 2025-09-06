@@ -3,7 +3,7 @@ In C#, **`dynamic`** is a special type that tells the compiler:
 
 ## 🔹 Example
 
-```
+``` csharp
 dynamic value = 10; 
 Console.WriteLine(value.GetType()); // System.Int32
 

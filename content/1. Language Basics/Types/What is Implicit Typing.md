@@ -2,7 +2,7 @@
 
 You use the keyword **`var`** for this.
 
-```
+``` csharp
 var age = 25;          // Compiler infers int
 var name = "Alice";    // Compiler infers string
 var price = 19.99;     // Compiler infers double
