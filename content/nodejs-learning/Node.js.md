@@ -2,7 +2,7 @@
 
 - You know JavaScript - this builds upon it.
 
-## **1. Node.js Core Concepts**
+# **1. Node.js Core Concepts**
 
 ## [[Runtime Vs Browser]]
 
@@ -14,7 +14,7 @@
 
 ## [[Package Management]]
 
-## **2. Core Modules**
+# **2. Core Modules**
 
 ## [[fs]]
 
@@ -30,7 +30,7 @@
 
 ## [[crypto]]
 
-## **3. Project Structure & Environment**
+# **3. Project Structure & Environment**
 
 ## [[Folder Structure]]
 
@@ -38,13 +38,13 @@
 
 ## [[ESLint and Prettier]]
 
-## **4. Web Servers & APIs**
+# **4. Web Servers & APIs**
 
 ## [[Express.js Essentials]]
 
 ## [[REST API Design]]
 
-## **5. Databases**
+# **5. Databases**
 
 ## [[MongoDB + Mongoose]]
 
@@ -52,7 +52,7 @@
 
 ## [[CRUD operations & models integration]]
 
-## **6. Authentication & Security**
+# **6. Authentication & Security**
 
 ## [[JWT Auth]]
 
@@ -64,7 +64,7 @@
 
 ## [[Security]]
 
-## **7. Async Patterns**
+# **7. Async Patterns**
 
 ## [[Event loop deep dive]]
 
@@ -74,7 +74,7 @@
 
 ## [[EventEmitter & event-driven design]]
 
-## **8. Advanced Node Concepts**
+# **8. Advanced Node Concepts**
 
 ## [[File upload & download handling]]
 
@@ -86,11 +86,11 @@
 
 ## [[Performance profiling & optimization]]
 
-## **9. Testing**
+# **9. Testing**
 
 ## [[Testing]]
 
-## **10. Architecture & Design Patterns**
+# **10. Architecture & Design Patterns**
 
 ## [[MVC, Service Layer, Repository]]
 
@@ -98,7 +98,7 @@
 
 ## [[Dependency injection - Awilix, Inversify]]
 
-## **11. GraphQL & API Alternatives**
+# **11. GraphQL & API Alternatives**
 
 ## [[GraphQL + Apollo Server]]
 
@@ -106,7 +106,7 @@
 
 ## [[API documentation - Swagger & OpenAPI]]
 
-## **12. Deployment & Cloud**
+# **12. Deployment & Cloud**
 
 ## [[Hosting - Heroku, Vercel, AWS, DigitalOcean]]
 
@@ -118,7 +118,7 @@
 
 ## [[CI & CD pipelines-  GitHub Actions, GitLab CI]]
 
-## **13. Observability & Monitoring**
+# **13. Observability & Monitoring**
 
 ## [[Logging - Winston, Pino]]
 
@@ -126,5 +126,5 @@
 
 ## [[Error tracking - Sentry, Rollbar]]
 
-## **Further Comprehensive AI Research:**
+# **Further Comprehensive AI Research:**
 ## [[Gemini Deep Research]]
